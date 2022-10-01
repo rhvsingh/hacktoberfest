@@ -1,9 +1,7 @@
 # Hacktoberfest
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/96458739/193419185-5fc1a85f-cdc9-4dea-bb0b-64a4d5120ea7.png)
-
-">
+        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/opengraph.da6e44c0.png">
     </a>
 </p>
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
