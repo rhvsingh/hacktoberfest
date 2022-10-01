@@ -111,7 +111,7 @@ body {
     height: 56vh;
     margin: auto;
     padding: inherit;
-    background: url(hactober.jpg) no-repeat 45% 45%;
+    background: url(../hactober.jpg) no-repeat 45% 45%;
     background-size: cover;
     overflow: auto;
 }
