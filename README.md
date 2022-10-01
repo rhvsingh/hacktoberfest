@@ -1,9 +1,7 @@
 # Hacktoberfest
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6](https://user-images.githubusercontent.com/96458739/193418173-e2ad7c11-6401-47ba-bbf0-e7b6cdcf3f65.png)
-
-" width="200px" height="200px">
+        <img src="![oJ7mKaaj_400x400](https://user-images.githubusercontent.com/96458739/193418242-35fb368b-0ab2-456f-865f-6ab4c7e40d6c.jpg)" width="200px" height="200px">
     </a>
 </p>
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
