@@ -1,7 +1,7 @@
 # Hacktoberfest
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/opengraph.da6e44c0.png">
+        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/opengraph.da6e44c0.png"width="200px" height="200px">
     </a>
 </p>
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
