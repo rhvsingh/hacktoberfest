@@ -1,7 +1,8 @@
 # Hacktoberfest
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6-removebg-preview](https://user-images.githubusercontent.com/96458739/193418117-a5e9918c-1026-4a63-b4fe-ffeb280bb624.png)
+        <img src="![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6](https://user-images.githubusercontent.com/96458739/193418173-e2ad7c11-6401-47ba-bbf0-e7b6cdcf3f65.png)
+
 " width="200px" height="200px">
     </a>
 </p>
