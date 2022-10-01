@@ -5,14 +5,28 @@
 body {
     margin: 0px;
     font-family: 'segoe ui';
-    background-color: rgb(185, 238, 99);
+    background-color: #6B7A8F;
 }
 
 .nav {
     height: 50px;
     width: 100%;
-    background-color: #4d4d4d;
+    background-color: #09485e;
     position: relative;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.nav-btn{
+    text-decoration: solid;
+    text-decoration-color: white;
+    font-size: medium;
+}
+.nav-title{
+    text-decoration: none;
+    color: white;
+   
+    
 }
 
 .nav>.nav-header {
@@ -22,8 +36,10 @@ body {
 .nav>.nav-header>.nav-title {
     display: inline-block;
     font-size: 22px;
-    color: #fff;
+    color: white;
     padding: 10px 10px 10px 10px;
+    text-size-adjust: 10%;
+    text-decoration: solid;
 }
 
 .nav>.nav-btn {
@@ -40,7 +56,7 @@ body {
     display: inline-block;
     padding: 13px 10px 13px 10px;
     text-decoration: none;
-    color: #efefef;
+    color: white;
 }
 
 .nav>.nav-links>a:hover {
@@ -118,7 +134,7 @@ body {
 
 
 h2 {
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -135,5 +151,20 @@ ol {
     ol {
         font-size: 15px;
     }
+
+}
+#footer{
+    
+    background-color: #628078;
+    height: fit-content;
+    display: block;
+    height: 100%;
+}
+
+a:link{
+    color: black;
+    text-decoration-style: solid;
+    font-size: 80%;
+    text-align: center;
 
 }
