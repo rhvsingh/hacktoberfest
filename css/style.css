@@ -2,31 +2,57 @@
     box-sizing: border-box;
 }
 
+:root {
+    --bg-main-color: rgb(12 12 12 / 1);
+    --fg-main-color: rgb(225 225 225 / 1);
+    --shadow: rgb(63 63 63 / 1);
+    --link-colors:rgb(247 186 186 / 1);
+    --link-colors-hover:rgb(231 94 94 / 1);
+}
+
 body {
     margin: 0px;
     font-family: 'segoe ui';
-    background-color: #6B7A8F;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bg-main-color);
+    color: var(--fg-main-color);
+}
+
+.container {
+    max-width: 1280px;
 }
 
 .nav {
     height: 50px;
     width: 100%;
-    background-color: #09485e;
     position: relative;
     overflow: hidden;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
-.nav-btn{
+
+.nav-btn {
     text-decoration: solid;
-    text-decoration-color: white;
+    text-decoration-color: var(--fg-main-color);
     font-size: medium;
 }
-.nav-title{
+
+.nav-title {
     text-decoration: none;
-    color: white;
-   
-    
+    color: var(--fg-main-color);
+
+
 }
 
 .nav>.nav-header {
@@ -56,11 +82,11 @@ body {
     display: inline-block;
     padding: 13px 10px 13px 10px;
     text-decoration: none;
-    color: white;
+    color: var(--fg-main-color);
 }
 
 .nav>.nav-links>a:hover {
-    background-color: rgba(0, 0, 0, 0.3);
+    color: var(--link-colors-hover);
 }
 
 .nav>#nav-check {
@@ -130,6 +156,7 @@ body {
     background: url(../hactober.jpg) no-repeat 45% 45%;
     background-size: cover;
     overflow: auto;
+    box-shadow: 0 0 0 2px var(--shadow);
 }
 
 
@@ -142,7 +169,7 @@ ol {
     font-size: 30px;
     font-family: cursive;
 }
- 
+
 @media screen and (max-width:700px) {
     h2 {
         font-size: 30px;
@@ -153,18 +180,45 @@ ol {
     }
 
 }
-#footer{
-    
-    background-color: #628078;
+
+#footer {
+
+    background-color: var(--bg-main-color);
+    color: var(--fg-main-color);
     height: fit-content;
     display: block;
     height: 100%;
 }
+#footer footer{
+    margin: 3rem 0 0 ;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
-a:link{
-    color: black;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.link-inner {
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.link-inner a {
+    color: var(--link-colors);
     text-decoration-style: solid;
     font-size: 80%;
     text-align: center;
-
+}
+.link-inner a:hover{
+    color: var(--link-colors-hover);
 }
