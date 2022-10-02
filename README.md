@@ -28,15 +28,7 @@ Repositories where you can contribute for hacktoberfest.
 4. https://github.com/rhvsingh/website_repo_3
 5. https://github.com/rhvsingh/website_repo_4
 6. https://github.com/rhvsingh/sorting_js
-
-  **DONE**
-
-Special thanks:+1: to:
-
-<strong> ⭐️ Contributors ⭐️ </strong>
-
-* [Rishabh Pratap Singh](https://github.com/iam-Rps)
-
-<br />
-
-
+7. https://github.com/Bauddhik-Geeks/Resource-Card
+8. https://github.com/Bauddhik-Geeks/Restaurant_Website
+9. https://github.com/Bauddhik-Geeks/Diabetes-Predictor
+10. https://github.com/Bauddhik-Geeks/A-ChatBot
