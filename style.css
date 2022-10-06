@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+:root {
+   --font-style: 300 1em/1.5 'Nunito Sans', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   font: var(--font-style);
+   text-decoration: none;
+   color: #fff;
+}
+
+body {
+   background: #131315;
+   font: var(--font-style);
+}
+
+button:hover {
+   cursor: pointer;
+   box-shadow: 0px 4px 4px #DF00FF;
+}
+
+button {
+   color: #fff;
+   border-radius: 25px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background: transparent;
+   outline: none;
+   border: 0;
+   padding: 15px 50px;
+   overflow: hidden;
+   transition: all 0.5s;
+}
+/*button:before (attr data-hover)*/
+
+button:hover:before {
+   opacity: 1;
+   transform: translate(0, 0);
+}
+
+button:before {
+   content: attr(data-hover);
+   position: absolute;
+   top: 1.1em;
+   left: 0;
+   width: 100%;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   font-weight: 800;
+   font-size: .8em;
+   opacity: 0;
+   transform: translate(-100%, 0);
+   transition: all .3s ease-in-out;
+}
+/*button div (button text before hover)*/
+
+button:hover div {
+   opacity: 0;
+   transform: translate(100%, 0)
+}
+
+button div {
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   font-weight: 800;
+   font-size: .8em;
+   transition: all .3s ease-in-out;
+}
