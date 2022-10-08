@@ -62,11 +62,12 @@ a {
 .nav>.nav-header>.nav-title {
     display: inline-block;
     font-size: 22px;
-    color: white;
     padding: 10px 10px 10px 10px;
     text-size-adjust: 10%;
     text-decoration: solid;
 }
+
+
 
 .nav>.nav-btn {
     display: none;
@@ -151,6 +152,7 @@ a {
     height: auto;
     width: 100%;
     height: 56vh;
+    border-radius: 30px;
     margin: auto;
     padding: inherit;
     background: url(../hactober.jpg) no-repeat 45% 45%;
@@ -200,7 +202,7 @@ ol {
 
 .links {
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     flex-direction: column;
     word-wrap: break-word;
