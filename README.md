@@ -1,7 +1,7 @@
 # Hacksquad
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/oJ7mKaaj_400x400.jpg"width="200px" height="200px">
+        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/190159412-34a1d863-1c2f-49bb-930c-054753137118.jpg"width="200px" height="200px">
     </a>
 </p>
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
