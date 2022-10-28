@@ -11,12 +11,17 @@
    margin: 0;
    font: var(--font-style);
    text-decoration: none;
-   color: #fff;
+   color:white;
+   
 }
 
 body {
    background: #131315;
    font: var(--font-style);
+   background-image: url(oJ7mKaaj_400x400.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   
 }
 
 button:hover {
@@ -37,6 +42,7 @@ button {
    padding: 15px 50px;
    overflow: hidden;
    transition: all 0.5s;
+ 
 }
 /*button:before (attr data-hover)*/
 
@@ -58,12 +64,14 @@ button:before {
    opacity: 0;
    transform: translate(-100%, 0);
    transition: all .3s ease-in-out;
+   
 }
 /*button div (button text before hover)*/
 
 button:hover div {
    opacity: 0;
    transform: translate(100%, 0)
+   
 }
 
 button div {
