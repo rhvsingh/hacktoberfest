@@ -94,6 +94,18 @@ a {
     display: none;
 }
 
+h3 {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    text-align: center;
+    /* font-weight: 800; */
+}
+
+ul li {
+    list-style-type: square; /* 使用方块作为标记 */
+    /* color: rgb(64, 198, 228);  */
+}
+
 @media (max-width:600px) {
     .nav>.nav-btn {
         display: inline-block;
