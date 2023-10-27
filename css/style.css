@@ -155,7 +155,7 @@ a {
     border-radius: 30px;
     margin: auto;
     padding: inherit;
-    background: url(../hactober.jpg) no-repeat 45% 45%;
+    background: url(/images/hf10_wallpaper_1920x1080.png) no-repeat 45% 45%;
     background-size: cover;
     overflow: auto;
     box-shadow: 0 0 0 2px var(--shadow);
