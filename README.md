@@ -1,12 +1,12 @@
 # Hacktoberfest
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-        <img src="https://github.com/iam-Rps/hacktoberfest/blob/main/oJ7mKaaj_400x400.jpg"width="200px" height="200px">
+        <img src="https://github.com/prakharsxn7/hacktoberfest-m/blob/main/Images/logo.png"width="700px" height="300px">
     </a>
 </p>
 
 ## What is Hacktoberfest?
-[Hacktoberfest](https://hacktoberfest.com) is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion. 
+[Hacktoberfest](https://hacktoberfest.com) is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win Digital swag to mark the occasion. 
 
 ## About Pusher
 [Pusher](https://pusher.com/) provides bi-directional hosted realtime APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure so you can build the features your users need, fast.
@@ -27,7 +27,10 @@ Here’s what you need to do to win some Pusher swag:
 
 ⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
 
-**Swag reveal coming soon 👀**
+## Our Top Contributors ♥️
+<p align="center"><a href="https://github.com/rhvsingh/hacktoberfest/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=rhvsingh/hacktoberfest" />
+</a></p>   
 
 ## Tips for contributors
 - PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
