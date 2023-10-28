@@ -72,3 +72,9 @@ Repositories where you can contribute for hacktoberfest.
 8. https://github.com/Bauddhik-Geeks/Restaurant_Website
 9. https://github.com/Bauddhik-Geeks/Diabetes-Predictor
 10. https://github.com/Bauddhik-Geeks/A-ChatBot
+
+## hacketoberfest perks ;-
+1.Hacktoberfest 2023 Pledge badge: Earned by pledging commitment and authoring a post about Hackathon experience or Hacktoberfest goals. This achievement sets participants on the path to earning other badges.
+2.Hacktoberfest 2023 Honored Contributor badge: Earned by completing four valid pull requests during Hacktoberfest 2023 and writing a related post.
+3.Hacktoberfest 2023 Honored Maintainer badge: Earned by maintaining an active repository during Hacktoberfest 2023 and writing a related post.
+4.DEV Contributor badge: Earned by successfully merging a pull request into DEV's repositories. While not part of the Hacktoberfest badge set, it signifies DEV's involvement and provides rewards to engaged members.
