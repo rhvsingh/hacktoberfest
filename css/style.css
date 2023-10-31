@@ -51,7 +51,7 @@ a {
 .nav-title {
     text-decoration: none;
     color: var(--fg-main-color);
-
+    
 
 }
 
@@ -92,6 +92,20 @@ a {
 
 .nav>#nav-check {
     display: none;
+}
+
+h3 {
+    /* font-family: Lucida Console; */
+    font-style: normal;
+    text-align: center;
+    /* font-weight: 800; */
+    font-family: 'Arial, Helvetica, sans-serif'; 
+    color: #f0e9e7;
+}
+
+ul li {
+    list-style-type: square; /* 使用方块作为标记 */
+    /* color: rgb(64, 198, 228);  */
 }
 
 @media (max-width:600px) {
